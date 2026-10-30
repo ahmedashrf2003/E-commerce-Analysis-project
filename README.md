@@ -18,3 +18,22 @@ A quick summary of our e-commerce performance analysis, focusing on key marketin
 
 3) Fix Product & Service Issues: Address common complaints in negative reviews to lift the average customer rating past the 4.0 target.
 
+# 🛠️ Tools Used
+
+SQL Server: Data extraction, cleaning, and transformation.
+
+Python (pandas, pyodbc, nltk): Sentiment analysis on customer reviews.
+
+Power BI: Interactive dashboard creation and data visualization.
+
+PowerPoint: Final stakeholder presentation.
+
+🔄 Project Steps
+
+Data Cleaning & Transformation (SQL): Cleaned, categorized, and transformed raw database tables using CTEs, Window Functions, Subqueries, and CASE statements.
+
+Sentiment Analysis (Python): Processed customer review text using nltk (VADER Sentiment Intensity Analyzer) to score customer sentiment and combined it with star ratings.
+
+Data Integration (Power BI): Loaded the transformed SQL data alongside the generated Python sentiment CSV file into Power BI.
+
+Dashboard & Reporting: Built an interactive Power BI dashboard to analyze performance metrics and presented key findings to stakeholders using PowerPoint.
