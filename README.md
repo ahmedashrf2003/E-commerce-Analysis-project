@@ -2,7 +2,7 @@
 
 A quick summary of our e-commerce performance analysis, focusing on key marketing insights and simple action steps.
 
-📈 Key Insights :
+# 📈 Key Insights :
 
 1) Conversion Rate: Highest in January (17.3%) and lowest in October (6.1%). Sales peak around seasonal items like Ski Boots and Kayaks.
 
