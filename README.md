@@ -1,6 +1,8 @@
 # E-Commerce Performance Analysis
 
-A quick summary of our e-commerce performance analysis, focusing on key marketing insights and simple action steps.
+📊 Project Overview
+This project delivers a comprehensive marketing and e-commerce analytics report. It evaluates key performance indicators (KPIs) spanning conversion rates, social media engagement trends, customer feedback sentiment, and strategic growth actions to optimize overall business performance.
+
 
 # 📈 Key Insights :
 
