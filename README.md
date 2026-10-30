@@ -20,20 +20,20 @@ A quick summary of our e-commerce performance analysis, focusing on key marketin
 
 # 🛠️ Tools Used
 
-SQL Server: Data extraction, cleaning, and transformation.
+1) SQL Server: Data extraction, cleaning, and transformation.
 
-Python (pandas, pyodbc, nltk): Sentiment analysis on customer reviews.
+2) Python (pandas, pyodbc, nltk): Sentiment analysis on customer reviews.
 
-Power BI: Interactive dashboard creation and data visualization.
+3) Power BI: Interactive dashboard creation and data visualization.
 
-PowerPoint: Final stakeholder presentation.
+4) PowerPoint: Final stakeholder presentation.
 
-🔄 Project Steps
+# 🔄 Project Steps
 
-Data Cleaning & Transformation (SQL): Cleaned, categorized, and transformed raw database tables using CTEs, Window Functions, Subqueries, and CASE statements.
+1) Data Cleaning & Transformation (SQL): Cleaned, categorized, and transformed raw database tables using CTEs, Window Functions, Subqueries, and CASE statements.
 
-Sentiment Analysis (Python): Processed customer review text using nltk (VADER Sentiment Intensity Analyzer) to score customer sentiment and combined it with star ratings.
+2) Sentiment Analysis (Python): Processed customer review text using nltk (VADER Sentiment Intensity Analyzer) to score customer sentiment and combined it with star ratings.
 
-Data Integration (Power BI): Loaded the transformed SQL data alongside the generated Python sentiment CSV file into Power BI.
+3) Data Integration (Power BI): Loaded the transformed SQL data alongside the generated Python sentiment CSV file into Power BI.
 
-Dashboard & Reporting: Built an interactive Power BI dashboard to analyze performance metrics and presented key findings to stakeholders using PowerPoint.
+4) Dashboard & Reporting: Built an interactive Power BI dashboard to analyze performance metrics and presented key findings to stakeholders using PowerPoint.
